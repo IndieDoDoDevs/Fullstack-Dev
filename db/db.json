@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John",
+      "email": "John@email.com"
+    },
+    {
+      "id": "bf057be8-d329-450c-8ec5-a86b9d5cd7b1",
+      "name": "nirosh",
+      "email": "nirosh@email.com"
+    },
+    {
+      "id": "2944df66-2ad4-40d6-b183-a1c73d5728fa",
+      "name": "jk",
+      "email": "jk@email.com"
+    },
+    {
+      "id": "66e22746-b9ad-4e7b-be7f-ac3d10b23afc",
+      "name": "praveen",
+      "email": "praveen@email.com"
+    },
+    {
+      "id": 2,
+      "name": "asasda",
+      "email": "asdasdasd"
+    }
+  ]
+}
